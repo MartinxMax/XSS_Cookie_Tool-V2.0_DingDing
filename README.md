@@ -30,6 +30,11 @@ _If your machine has a public IP address, just listen to the local port_
 Copy PAYLOAD
 
 * Attempt to inject statement
+   ![图片名称](https://raw.githubusercontent.com/MartinxMax/XSS_Cookie_Tool/master/%C2%96%C2%96Demo_image/ADMIN.png "Cookie")  
 * Administrator visits malicious page
+  The administrator is redirected to the specified page
 
-![图片名称](https://raw.githubusercontent.com/MartinxMax/XSS_Cookie_Tool/master/%C2%96%C2%96Demo_image/ADMIN.png "Cookie")  
+  ![图片名称](https://raw.githubusercontent.com/MartinxMax/XSS_Cookie_Tool/master/%C2%96%C2%96Demo_image/ADMIN.png "page")  
+    
+* Got cookies
+      ![图片名称](https://raw.githubusercontent.com/MartinxMax/XSS_Cookie_Tool/master/%C2%96%C2%96Demo_image/ADMIN.png "Cookie")  
