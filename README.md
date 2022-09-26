@@ -2,6 +2,7 @@
 * The current version is 1.0 and will be updated continuously
 * Python version 3.6 or above
 * Automatically steal cookies
+* Compatible with Windows or Linux
 ## usage method
   * View help information
 
