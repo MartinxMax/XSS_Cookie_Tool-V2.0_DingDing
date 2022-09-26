@@ -1,0 +1,1 @@
+# XSS steals cookies
