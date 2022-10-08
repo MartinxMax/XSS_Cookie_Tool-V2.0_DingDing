@@ -1,1 +1,1 @@
-python XSS.py -lp 8899 -d aed4f94f152975cadecf2166f352bc958adf795359ff88e3c1d8ba8625f748eb -k say
+python XSS.py -lp (Loacl Port) -d (Token) -k (keyword)
